@@ -3,10 +3,18 @@
   font-family: 'Comic Sans MS';
 }
 
+.row {
+    width: 100%;
+}
+
 h1 {
     color: black;
     font-size: 175%;
     text-align: center;
+}
+
+#container {
+    position: relative;
 }
 
 section {
