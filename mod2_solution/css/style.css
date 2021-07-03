@@ -29,6 +29,7 @@ h2 {
 p {
     clear: right;
     width: 90%;
+    padding-left: 10px;
 }
 
 #chicken {
