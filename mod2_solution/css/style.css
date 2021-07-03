@@ -26,6 +26,11 @@ h2 {
     margin-bottom: 20px;
 }
 
+p {
+    clear: right;
+    width: 90%;
+}
+
 #chicken {
     background-color: brown;
 }
