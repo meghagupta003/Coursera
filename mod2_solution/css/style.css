@@ -26,20 +26,15 @@ h2 {
     margin-bottom: 20px;
 }
 
-ul {
-    clear: right;
-    width: 90%;
-}
-
 #chicken {
     background-color: brown;
 }
 
-#pork {
+#beef {
     background-color: darkorchid;
 }
 
-#steak {
+#sushi {
     background-color: forestgreen;
 }
 
